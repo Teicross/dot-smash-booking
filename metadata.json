@@ -1,0 +1,5 @@
+{
+  "name": "Super Badminton Club",
+  "description": "A comprehensive badminton court booking system with user reservation flows and a full administrator dashboard for managing bookings, courts, and pricing.",
+  "requestFramePermissions": []
+}
